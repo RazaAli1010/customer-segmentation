@@ -1,0 +1,1 @@
+A small project where I have applied my knowledge of unsupervised machine learning specifically "Clustering". I have used KMeans in order to cluster customers on the basis of their annual income and spending score.
